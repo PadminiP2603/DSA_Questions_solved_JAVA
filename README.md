@@ -22,4 +22,9 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PadminiP2603/DSA_Questions_solved_JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/PadminiP2603/DSA_Questions_solved_JAVA/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/PadminiP2603/DSA_Questions_solved_JAVA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
