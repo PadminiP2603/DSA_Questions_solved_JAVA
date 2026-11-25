@@ -1,6 +1,6 @@
 Questions solved
 
-Two Sum
+1.Two Sum
 Valid Palindrome
 Two Sum II
 Sort Colors
